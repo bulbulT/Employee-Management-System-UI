@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const EMPLOYEE_API_BASE_URL = "http://ec2-3-110-51-235.ap-south-1.compute.amazonaws.com:8080/employees";
+const EMPLOYEE_API_BASE_URL = "http://43.204.141.140:8080/employees";
 
 class EmployeeService {
   saveEmployee(employee) {
