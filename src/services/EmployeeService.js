@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const EMPLOYEE_API_BASE_URL = "http://43.204.141.140:8080/employees";
+const EMPLOYEE_API_BASE_URL = "http://3.109.108.130:8080/employees";
 
 class EmployeeService {
   saveEmployee(employee) {
